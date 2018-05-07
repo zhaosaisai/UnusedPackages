@@ -1,0 +1,23 @@
+{
+  "name": "UnusedPackages",
+  "version": "1.0.0",
+  "description": "A webpack plugin to find the packages which has installed but unused in the project",
+  "main": "UnusedPackages.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhaosaisai/UnusedPackages.git"
+  },
+  "keywords": [],
+  "author": "zhaosaisai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhaosaisai/UnusedPackages/issues"
+  },
+  "homepage": "https://github.com/zhaosaisai/UnusedPackages#readme",
+  "devDependencies": {
+    "chalk": "^2.4.1"
+  }
+}
